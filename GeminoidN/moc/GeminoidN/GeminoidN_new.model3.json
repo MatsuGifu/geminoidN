@@ -13,44 +13,84 @@
 				"File": "../../motion/Joy/Joy_01.exp3.json"
 			},
 			{
-				"Name": "happy11-1",
-				"File": "../../motion/Joy/Joy_01.exp3.json"
+				"Name": "Anger_01",
+				"File": "../../motion/Anger/Anger_01.exp3.json"
 			},
 			{
-				"Name": "happy11-2",
-				"File": "../../motion/Joy/Joy_02.exp3.json"
+				"Name": "Anger_02",
+				"File": "../../motion/Anger/Anger_02.exp3.json"
 			},
 			{
-				"Name": "happy11-3",
-				"File": "../../motion/Joy/Joy_03.exp3.json"
+				"Name": "Anger_03",
+				"File": "../../motion/Anger/Anger_03.exp3.json"
 			},
 			{
-				"Name": "happy11-4",
-				"File": "../../motion/Joy/Joy_04.exp3.json"
+				"Name": "Anger_04",
+				"File": "../../motion/Anger/Anger_04.exp3.json"
 			},
 			{
-				"Name": "happy11-5",
-				"File": "../../motion/Joy/Joy_05.exp3.json"
+				"Name": "Anger_05",
+				"File": "../../motion/Anger/Anger_05.exp3.json"
 			},
 			{
-				"Name": "happy11-6",
-				"File": "../../motion/Joy/Joy_06.exp3.json"
+				"Name": "Anger_06",
+				"File": "../../motion/Anger/Anger_06.exp3.json"
 			},
 			{
-				"Name": "happy11-7",
-				"File": "../../motion/Joy/Joy_07.exp3.json"
+				"Name": "Anger_07",
+				"File": "../../motion/Anger/Anger_07.exp3.json"
 			},
 			{
-				"Name": "happy11-8",
-				"File": "../../motion/Joy/Joy_08.exp3.json"
+				"Name": "Anger_08",
+				"File": "../../motion/Anger/Anger_08.exp3.json"
 			},
 			{
-				"Name": "happy11-9",
-				"File": "../../motion/Joy/Joy_09.exp3.json"
+				"Name": "Anger_09",
+				"File": "../../motion/Anger/Anger_09.exp3.json"
 			},
 			{
-				"Name": "happy11-10",
-				"File": "../../motion/Joy/Joy_10.exp3.json"
+				"Name": "Anger_010",
+				"File": "../../motion/Anger/Anger_10.exp3.json"
+			},
+			{
+				"Name": "Regret_01",
+				"File": "../../motion/Regret/Regret_01.exp3.json"
+			},
+			{
+				"Name": "Regret_02",
+				"File": "../../motion/Regret/Regret_02.exp3.json"
+			},
+			{
+				"Name": "Regret_03",
+				"File": "../../motion/Regret/Regret_03.exp3.json"
+			},
+			{
+				"Name": "Regret_04",
+				"File": "../../motion/Regret/Regret_04.exp3.json"
+			},
+			{
+				"Name": "Regret_05",
+				"File": "../../motion/Regret/Regret_05.exp3.json"
+			},
+			{
+				"Name": "Regret_06",
+				"File": "../../motion/Regret/Regret_06.exp3.json"
+			},
+			{
+				"Name": "Regret_07",
+				"File": "../../motion/Regret/Regret_07.exp3.json"
+			},
+			{
+				"Name": "Regret_08",
+				"File": "../../motion/Regret/Regret_08.exp3.json"
+			},
+			{
+				"Name": "Regret_09",
+				"File": "../../motion/Regret/Regret_09.exp3.json"
+			},
+			{
+				"Name": "Regret_010",
+				"File": "../../motion/Regret/Regret_10.exp3.json"
 			},
 			{
 				"Name": "sad11-1",
@@ -91,6 +131,46 @@
 			{
 				"Name": "sad11-10",
 				"File": "../../motion/Sad/Sad_10.exp3.json"
+			},
+			{
+				"Name": "happy11-1",
+				"File": "../../motion/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name": "happy11-2",
+				"File": "../../motion/Joy/Joy_02.exp3.json"
+			},
+			{
+				"Name": "happy11-3",
+				"File": "../../motion/Joy/Joy_03.exp3.json"
+			},
+			{
+				"Name": "happy11-4",
+				"File": "../../motion/Joy/Joy_04.exp3.json"
+			},
+			{
+				"Name": "happy11-5",
+				"File": "../../motion/Joy/Joy_05.exp3.json"
+			},
+			{
+				"Name": "happy11-6",
+				"File": "../../motion/Joy/Joy_06.exp3.json"
+			},
+			{
+				"Name": "happy11-7",
+				"File": "../../motion/Joy/Joy_07.exp3.json"
+			},
+			{
+				"Name": "happy11-8",
+				"File": "../../motion/Joy/Joy_08.exp3.json"
+			},
+			{
+				"Name": "happy11-9",
+				"File": "../../motion/Joy/Joy_09.exp3.json"
+			},
+			{
+				"Name": "happy11-10",
+				"File": "../../motion/Joy/Joy_10.exp3.json"
 			}
 		]
 	},
