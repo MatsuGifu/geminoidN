@@ -179,8 +179,8 @@
 			"Target": "Parameter",
 			"Name": "EyeBlink",
 			"Ids": [
-				"ParamEyeLOpen_Happy",
-				"ParamEyeROpen_Happy"
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
 			]
 		},
 		{
